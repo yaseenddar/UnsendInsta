@@ -1,0 +1,728 @@
+{
+    "data": {
+        "fetch__SlideMailbox": {
+            "threads_by_folder": {
+                "edges": [
+                    {
+                        "node": {
+                            "as_ig_direct_thread": {
+                                "id": "1056195592437425",
+                                "last_activity_timestamp_ms": "1755591459150",
+                                "thread_key": "17842247579275485",
+                                "thread_subtype": "IG_BUSINESS_ACCOUNT_ONE_TO_ONE",
+                                "thread_fbid": "1056195592437425",
+                                "is_group": false,
+                                "users": [
+                                    {
+                                        "id": "38217803484",
+                                        "friendship_status": {
+                                            "blocking": false,
+                                            "is_restricted": false
+                                        },
+                                        "supervision_info": null,
+                                        "interop_messaging_user_fbid": "17842247579275485",
+                                        "full_name": "waseem_20 /و س ي م",
+                                        "ai_agent_type": null,
+                                        "username": "wasim_ibn_rasheed",
+                                        "is_verified": false,
+                                        "aigm_account_label_info": {
+                                            "attribution_label_text": null,
+                                            "is_auto_detected": false,
+                                            "is_enabled": false,
+                                            "is_manually_enabled": false
+                                        },
+                                        "profile_pic_url": "https://instagram.fdel27-8.fna.fbcdn.net/v/t51.82787-19/776658703_18107741813275485_6199560775140404374_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODQuQzMifQ%3D%3D&_nc_ohc=sy3EeW5fMMYQ7kNvwHp8ALh&_nc_oc=AdqmE22jNwTj2IzeZj6156-IjJaQ3Vmi5B7gv8Z-GxLnA4MVpZ8EcPKFTM6qu1KXYW5C_-IWQzd77EScg44BjTXU&_nc_zt=24&_nc_ht=instagram.fdel27-8.fna&_nc_gid=oLgNRmNUlnzS8LbOksbIaw&_nc_ss=7b6a8&oh=00_AQKA2okWWlAM7MVIURY1Jn2H9qntPgihuADxLt9MYm9YUg&oe=6AAEFFDF",
+                                        "latest_reel_media": null,
+                                        "latest_besties_reel_media": null,
+                                        "reel_media_seen_timestamp": null
+                                    }
+                                ],
+                                "marked_as_unread": false,
+                                "slide_read_receipts": [
+                                    {
+                                        "participant_fbid": "17842247579275485",
+                                        "watermark_timestamp_ms": "1715674283714"
+                                    },
+                                    {
+                                        "participant_fbid": "114650493258611",
+                                        "watermark_timestamp_ms": "1755591459151"
+                                    }
+                                ],
+                                "is_pin": false,
+                                "thread_label": 0,
+                                "input_mode": 0,
+                                "viewer_id": "5423274809",
+                                "nicknames": [],
+                                "thread_id": "340282366841710301244259231213169524401",
+                                "slide_messages": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "sender_fbid": "17842247579275485",
+                                                "timestamp_ms": "1755591459150",
+                                                "id": "mid.$cAD8LK9kZm66e8q0JTmYwWej-4fVG",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "MESSAGE_INLINE_SHARE",
+                                                "text_body": "",
+                                                "igd_snippet": "waseem_20 sent an attachment.",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageXMAContent"
+                                                }
+                                            },
+                                            "cursor": "AQHTgDIkDR6IPJ0CCANlP4P6AlwNV4iaZJhH0zuA3nx2eiIoASjsXMyGk4vieyHAAZBEpNIqHP2cUd3b-VYv4GrdHbcmKgaJ0B_J00Ef6r3RG5lncCdrGVcN3CeshxuC3rtU"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "17842247579275485",
+                                                "timestamp_ms": "1749481951119",
+                                                "id": "mid.$cAD8LK9kZm66dhoVXj2XVUAJLZLbs",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "MESSAGE_INLINE_SHARE",
+                                                "text_body": "",
+                                                "igd_snippet": "waseem_20 sent an attachment.",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageXMAContent"
+                                                }
+                                            },
+                                            "cursor": "AQHTq-LUxU47KMTXJKS7nwS28S_7NWfwGqKWzheotln-ol1PxgS5DdKI5MZM7wL47iWUaM3xw3Hh_9ImNmyjr9bhYfpesAOsDITfvU6PD8JWmDEcLRtOQ2eO38F6vlg-sAIf"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "17842247579275485",
+                                                "timestamp_ms": "1729007652668",
+                                                "id": "mid.$cAD8LK9kZm66YwihXPGSkOMFs8S9d",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "MESSAGE_INLINE_SHARE",
+                                                "text_body": "",
+                                                "igd_snippet": "waseem_20 sent an attachment.",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageXMAContent"
+                                                }
+                                            },
+                                            "cursor": "AQHTgj7qcZboxxD9kvAaflLhJwD1A1eiw0aGOrFphrADk6r91a5-bVRciMyPtZMCpdBwXqtQOoKo1K09FENdOwBgCT15wN_C4dDqbimbpEaxZjp-SH5FuACMmZ9PghmBOW2w"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "17842247579275485",
+                                                "timestamp_ms": "1728833644437",
+                                                "id": "mid.$cAD8LK9kZm66Yt8kvlWShoPO83vi9",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "MESSAGE_INLINE_SHARE",
+                                                "text_body": "",
+                                                "igd_snippet": "waseem_20 sent an attachment.",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageXMAContent"
+                                                }
+                                            },
+                                            "cursor": "AQHTHWBoJo2yXOO5sNVkgGIMJy2NXQ2vtywdp6FH6fFH-4k931k6Nr_Wuzr-vK2Dgrd8_-UVNr4x1vH5aaOl_z5pY4OX3IAqErdfstk2k-usCr2cqPekiSug0YsU6dQKKmjC"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "17842247579275485",
+                                                "timestamp_ms": "1725209990688",
+                                                "id": "mid.$cAD8LK9kZm66X38yeIGRrodHTwmkl",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "MESSAGE_INLINE_SHARE",
+                                                "text_body": "",
+                                                "igd_snippet": "waseem_20 sent an attachment.",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageXMAContent"
+                                                }
+                                            },
+                                            "cursor": "AQHTt2SxEse71d4hjQ8VDjMCmLvWcj-jGio0DbWuhj2YqLUa4lfE6lkf2IFhjSIgrOeTsYmuIhvYsbhRKNyfVlKXGRuRhFvn3wRWZ3BU-VbNMOG0cB8Nf7VHGAfxYWpZi_DQ"
+                                        }
+                                    ],
+                                    "page_info": {
+                                        "end_cursor": "AQHTt7CuG_iWcvdqh7JVN6qB6jBE85fWKMHkr0RDPOs3LgtzWJOMrv5puvRYO65fbKJQMJtQLh-xYVGuXb_wGpM2pPlEECEJvWXR9xvLdnJSZxpeF45pOxDsrBtmSDpe2Rak",
+                                        "has_next_page": true
+                                    }
+                                },
+                                "thread_title": "‎waseem_20 /و س ي م‎",
+                                "usersWithoutViewer": [
+                                    {
+                                        "is_internal_user": null,
+                                        "id": "38217803484"
+                                    }
+                                ],
+                                "viewer": {
+                                    "id": "5423274809",
+                                    "interop_messaging_user_fbid": "114650493258611",
+                                    "profile_pic_url": "https://instagram.fdel27-1.fna.fbcdn.net/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=YRms6fXqYDkQ7kNvwFBfyh-&_nc_oc=AdpzRj-W4bdMe4GfXtJp5eME5cC9nhz5FlpP0OWYnR2yo18hjvH6ayWzTNcpfqC1yw7yjubrcppeQ6L4ZySkjYfq&_nc_zt=24&_nc_ht=instagram.fdel27-1.fna&_nc_gid=oLgNRmNUlnzS8LbOksbIaw&_nc_ss=7b6a8&oh=00_AQL-FMnlK52pIUrv80xT5QJqMHapnKtC5vacrYtnBT0VPg&oe=6AAEF8A2"
+                                },
+                                "thread_image_url": null,
+                                "messaging_folder_tag": "INBOX",
+                                "event_chat_info": null,
+                                "is_muted": false,
+                                "takedown_data": null,
+                                "system_folder": "INBOX",
+                                "folder": "PRIMARY"
+                            },
+                            "id": "1056195592437425",
+                            "__typename": "SlideThread"
+                        },
+                        "cursor": "AQHT1hALJIUCEmMyU8KkE_3NiuHpPtiz3UxBdr36_wSTZXXG8845RALeq74GXDHE2UcuwnpT16DXg6lzP_kLVAxv-zbQwPGfSnxsV3PFQkxCVTOZLLaJcea9WYl940hqMb25"
+                    },
+                    {
+                        "node": {
+                            "as_ig_direct_thread": {
+                                "id": "1605344454189200",
+                                "last_activity_timestamp_ms": "1741716927127",
+                                "thread_key": "656175869434325",
+                                "thread_subtype": "IG_AI_BOT_ONE_TO_ONE",
+                                "thread_fbid": "1605344454189200",
+                                "is_group": false,
+                                "users": [
+                                    {
+                                        "id": "64528677628",
+                                        "friendship_status": {
+                                            "blocking": false,
+                                            "is_restricted": false
+                                        },
+                                        "supervision_info": null,
+                                        "interop_messaging_user_fbid": "656175869434325",
+                                        "full_name": "Meta AI",
+                                        "ai_agent_type": "official_meta_assistant",
+                                        "username": "Meta AI",
+                                        "is_verified": true,
+                                        "aigm_account_label_info": {
+                                            "attribution_label_text": null,
+                                            "is_auto_detected": false,
+                                            "is_enabled": false,
+                                            "is_manually_enabled": false
+                                        },
+                                        "profile_pic_url": "https://scontent.fdel27-1.fna.fbcdn.net/m1/v/t0.65075-6/An_DmLLtCkUAG4zSiC7jef0bz7JIGaNi94hvsFWE19aZP14RW_Ca11UNhv5MfC-6TrkdVAstelZDzu6ibOCIvcv7cM014GgL--bW5Nu7asluSoxpA7s?stp=s870x1160&ccb=10-5&oh=00_AQKd0tWWjWqe99VfDudmleXJTNpy4ByksvbwXWZx7eFDRg&oe=6AD09BB7&_nc_sid=e3bc14",
+                                        "latest_reel_media": 0,
+                                        "latest_besties_reel_media": 0,
+                                        "reel_media_seen_timestamp": null
+                                    }
+                                ],
+                                "marked_as_unread": false,
+                                "slide_read_receipts": [
+                                    {
+                                        "participant_fbid": "114650493258611",
+                                        "watermark_timestamp_ms": "1741716927128"
+                                    }
+                                ],
+                                "is_pin": false,
+                                "thread_label": 0,
+                                "input_mode": 0,
+                                "viewer_id": "5423274809",
+                                "nicknames": [],
+                                "thread_id": "340282366841710301244259780362031276176",
+                                "slide_messages": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "sender_fbid": "656175869434325",
+                                                "timestamp_ms": "1741716927127",
+                                                "id": "mid.$cAAI8j_x3Eqabt7B6l2Vhmsxp_WRF",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "TEXT",
+                                                "text_body": "My name is Meta AI. Think of me like an assistant who's here to help you learn, plan and connect. What can I help you with today?",
+                                                "igd_snippet": "My name is Meta AI. Think of me like an assistant who's here to help you learn, plan and connect. What can I help you with today?",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageText",
+                                                    "text_body": "My name is Meta AI. Think of me like an assistant who's here to help you learn, plan and connect. What can I help you with today?"
+                                                }
+                                            },
+                                            "cursor": "AQHTtQMTPO-gKcrno8cyb5MXvODDTXoZXNuEUEpRYPR-jJBpFvmus0spB4sxEuw6Kh8xlZDyRh84xR1cRHKY-Z9X84RvhpvfmKco_snrjowdms-kn8LmNa9tgy3gCrLq7CsK"
+                                        }
+                                    ],
+                                    "page_info": {
+                                        "end_cursor": "AQHTdTkYcq9H6i10z-rB9hC4AOZiItczrIykaIURJhhtecIgBmEX-TVVO4AgG4GDynslmbpJtFbfp14-L_g7T2bnSePdqpvex6t2VdEU20BNtIfzpsvARucsKOM1__DXlsZA",
+                                        "has_next_page": false
+                                    }
+                                },
+                                "thread_title": "Meta AI",
+                                "usersWithoutViewer": [
+                                    {
+                                        "is_internal_user": null,
+                                        "id": "64528677628"
+                                    }
+                                ],
+                                "viewer": {
+                                    "id": "5423274809",
+                                    "interop_messaging_user_fbid": "114650493258611",
+                                    "profile_pic_url": "https://instagram.fdel27-1.fna.fbcdn.net/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=YRms6fXqYDkQ7kNvwFBfyh-&_nc_oc=AdpzRj-W4bdMe4GfXtJp5eME5cC9nhz5FlpP0OWYnR2yo18hjvH6ayWzTNcpfqC1yw7yjubrcppeQ6L4ZySkjYfq&_nc_zt=24&_nc_ht=instagram.fdel27-1.fna&_nc_gid=oLgNRmNUlnzS8LbOksbIaw&_nc_ss=7b6a8&oh=00_AQL-FMnlK52pIUrv80xT5QJqMHapnKtC5vacrYtnBT0VPg&oe=6AAEF8A2"
+                                },
+                                "thread_image_url": null,
+                                "messaging_folder_tag": "INBOX",
+                                "event_chat_info": null,
+                                "is_muted": false,
+                                "takedown_data": null,
+                                "system_folder": "INBOX",
+                                "folder": "AI_BOT"
+                            },
+                            "id": "1605344454189200",
+                            "__typename": "SlideThread"
+                        },
+                        "cursor": "AQHTSHXPHL4sTH_XjSj8vddQnMcP-gi6n2bINGgGNusdUbb_G2tiLBQlaAanH24KLkZR5D3hkOWyNE6mduIUFZquJ3312oZOReLFqDs76XiE7OxLYy77bfWND2q-eZK2F2gC"
+                    },
+                    {
+                        "node": {
+                            "as_ig_direct_thread": {
+                                "id": "1630544421675129",
+                                "last_activity_timestamp_ms": "1739977700462",
+                                "thread_key": "108305880565665",
+                                "thread_subtype": "IG_BUSINESS_ACCOUNT_ONE_TO_ONE",
+                                "thread_fbid": "1630544421675129",
+                                "is_group": false,
+                                "users": [
+                                    {
+                                        "id": "2218875583",
+                                        "friendship_status": {
+                                            "blocking": false,
+                                            "is_restricted": false
+                                        },
+                                        "supervision_info": null,
+                                        "interop_messaging_user_fbid": "108305880565665",
+                                        "full_name": "JAIHAN KIM",
+                                        "ai_agent_type": null,
+                                        "username": "jaehan9192",
+                                        "is_verified": true,
+                                        "aigm_account_label_info": {
+                                            "attribution_label_text": null,
+                                            "is_auto_detected": false,
+                                            "is_enabled": false,
+                                            "is_manually_enabled": false
+                                        },
+                                        "profile_pic_url": "https://instagram.fdel27-1.fna.fbcdn.net/v/t51.82787-19/671859979_18520252792075584_7394003903717481247_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4MnvcXDfpvsQ7kNvwFVDn0c&_nc_oc=AdoM1kdEeirGuSLsTct3bLxxKvPbuXIEwKJjejAd35LFrwh_2kbIncljVoIxHa1UHKjZHQrpwsAGUlVlAQeQFNRG&_nc_zt=24&_nc_ht=instagram.fdel27-1.fna&_nc_gid=oLgNRmNUlnzS8LbOksbIaw&_nc_ss=7b6a8&oh=00_AQI-5U-CR53l40t-7g9D3g6kxHBgDQaluQOs2GOL-bfn3A&oe=6AAEFCB7",
+                                        "latest_reel_media": 1789472157,
+                                        "latest_besties_reel_media": 0,
+                                        "reel_media_seen_timestamp": null
+                                    }
+                                ],
+                                "marked_as_unread": false,
+                                "slide_read_receipts": [
+                                    {
+                                        "participant_fbid": "114650493258611",
+                                        "watermark_timestamp_ms": "1739977700462"
+                                    }
+                                ],
+                                "is_pin": false,
+                                "thread_label": 0,
+                                "input_mode": 0,
+                                "viewer_id": "5423274809",
+                                "nicknames": [],
+                                "thread_id": "340282366841710301244259805561998762105",
+                                "slide_messages": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "sender_fbid": "114650493258611",
+                                                "timestamp_ms": "1739977700462",
+                                                "id": "mid.$cAAAKxshlTNKbUAX8bmVHsCVE5zVI",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "MONTAGE_SHARE_XMA",
+                                                "text_body": "Come to Kashmir",
+                                                "igd_snippet": "You: Come to Kashmir",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageXMAContent"
+                                                }
+                                            },
+                                            "cursor": "AQHTd8WAatZdf2_qYaJdh0wC3k_iD-W1n_IYsQ6-M3sZxbxfGYueyAToTLWA5in9MypuGFdnL58mNqvsAaMCdyBiBWJPp72ihbNr_UDLK3LkX_8paPqAzwu78Xm80YDWXVyB"
+                                        }
+                                    ],
+                                    "page_info": {
+                                        "end_cursor": "AQHTWjN53sUP7lgBj-hFXrl-2HUs1jCAeYHj1bt30xQXLjnKJDsS9c1tkvMPf0Z3Nnve_iQEvKwHZmOOX4zlTlQx1KQ_JBPMqyKi71Q-MzR4MHou9Rnm3kam9SN_J_MlGoT2",
+                                        "has_next_page": false
+                                    }
+                                },
+                                "thread_title": "JAIHAN KIM",
+                                "usersWithoutViewer": [
+                                    {
+                                        "is_internal_user": null,
+                                        "id": "2218875583"
+                                    }
+                                ],
+                                "viewer": {
+                                    "id": "5423274809",
+                                    "interop_messaging_user_fbid": "114650493258611",
+                                    "profile_pic_url": "https://instagram.fdel27-1.fna.fbcdn.net/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=YRms6fXqYDkQ7kNvwFBfyh-&_nc_oc=AdpzRj-W4bdMe4GfXtJp5eME5cC9nhz5FlpP0OWYnR2yo18hjvH6ayWzTNcpfqC1yw7yjubrcppeQ6L4ZySkjYfq&_nc_zt=24&_nc_ht=instagram.fdel27-1.fna&_nc_gid=oLgNRmNUlnzS8LbOksbIaw&_nc_ss=7b6a8&oh=00_AQL-FMnlK52pIUrv80xT5QJqMHapnKtC5vacrYtnBT0VPg&oe=6AAEF8A2"
+                                },
+                                "thread_image_url": null,
+                                "messaging_folder_tag": "INBOX",
+                                "event_chat_info": null,
+                                "is_muted": false,
+                                "takedown_data": null,
+                                "system_folder": "INBOX",
+                                "folder": "PRIMARY"
+                            },
+                            "id": "1630544421675129",
+                            "__typename": "SlideThread"
+                        },
+                        "cursor": "AQHTSS9AAuFdW-sykwyQeSu7FeCmqZs6WtdVg6rmXVKKbCTx2HR0_jorYLdiNrYWhkbnQglBdcGHoOJRxcZemC5KcaK8wDOBXbI4gV7AU5JFlNdfDC9v6416xVa4cL9vCFk7"
+                    },
+                    {
+                        "node": {
+                            "as_ig_direct_thread": {
+                                "id": "559444135670611",
+                                "last_activity_timestamp_ms": "1739610580685",
+                                "thread_key": "109436540671375",
+                                "thread_subtype": "IG_ONLY_ONE_TO_ONE",
+                                "thread_fbid": "559444135670611",
+                                "is_group": false,
+                                "users": [
+                                    {
+                                        "id": "31683211302",
+                                        "friendship_status": {
+                                            "blocking": false,
+                                            "is_restricted": false
+                                        },
+                                        "supervision_info": null,
+                                        "interop_messaging_user_fbid": "109436540671375",
+                                        "full_name": "Nitesh Kr Gupta",
+                                        "ai_agent_type": null,
+                                        "username": "its_nitesh_gupta",
+                                        "is_verified": false,
+                                        "aigm_account_label_info": {
+                                            "attribution_label_text": null,
+                                            "is_auto_detected": false,
+                                            "is_enabled": false,
+                                            "is_manually_enabled": false
+                                        },
+                                        "profile_pic_url": "https://instagram.fdel1-1.fna.fbcdn.net/v/t51.82787-19/632181739_18094294514059303_2209851028163240983_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=yj5ibJnqUy8Q7kNvwEYMl6L&_nc_oc=AdrBgJ2gOar1t34uWZmtam3RoFXvd0_S_YPNIV9KsmJ0yNbZ_oCVXOJLxNmyMIeUkoF3E10kCZhnRp1aSw77zk28&_nc_zt=24&_nc_ht=instagram.fdel1-1.fna&_nc_gid=oLgNRmNUlnzS8LbOksbIaw&_nc_ss=7b6a8&oh=00_AQK6FYQFUbRKURV4FdzWrc61A05aLWBgih4kmR_llDuBug&oe=6AAF2B37",
+                                        "latest_reel_media": 0,
+                                        "latest_besties_reel_media": 0,
+                                        "reel_media_seen_timestamp": null
+                                    }
+                                ],
+                                "marked_as_unread": false,
+                                "slide_read_receipts": [
+                                    {
+                                        "participant_fbid": "109436540671375",
+                                        "watermark_timestamp_ms": "1658409809590"
+                                    },
+                                    {
+                                        "participant_fbid": "114650493258611",
+                                        "watermark_timestamp_ms": "1739610580686"
+                                    }
+                                ],
+                                "is_pin": false,
+                                "thread_label": 0,
+                                "input_mode": 0,
+                                "viewer_id": "5423274809",
+                                "nicknames": [],
+                                "thread_id": "340282366841710301244258734461712757587",
+                                "slide_messages": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "sender_fbid": "109436540671375",
+                                                "timestamp_ms": "1739610580685",
+                                                "id": "mid.$cAAALzgvNXvybOiQuzWVCN7qGKuN3",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "MONTAGE_SHARE_XMA",
+                                                "text_body": "sexy man🔥",
+                                                "igd_snippet": "sexy man🔥",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageXMAContent"
+                                                }
+                                            },
+                                            "cursor": "AQHTjFILVElZHVX7PQun6iJ8_wtybu0tzrYHvSQVLvnhTKndQjketST_-BYVMS1PcY8SnQqIBsla4PZJptRO2ATTiKv-SRGNvaO9H8roA2R6CYzYkpP62JDakyQFACfR_Sxc"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "109436540671375",
+                                                "timestamp_ms": "1685727713034",
+                                                "id": "mid.$cAAALzgvNXvyOrnjfCgAAXZkmPEmg",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "MESSAGE_INLINE_SHARE",
+                                                "text_body": "",
+                                                "igd_snippet": "Nitesh sent an attachment.",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageXMAContent"
+                                                }
+                                            },
+                                            "cursor": "AQHT75CSxma8LapoZNgwu8aoGcgV5vLB95tV-dhUso4IP6Xh9R0R27nRZO9lEpAoTue_W_Rf8igVXQlPjN7buHVQKpVLm7Av63acMHjUnyxNYjXaZVYrCum4nSWnHUXBxrSU"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "109436540671375",
+                                                "timestamp_ms": "1658409193898",
+                                                "id": "mid.$cAAALzgvNXvyIUilZqmCIOQOt5Pqy",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "MESSAGE_INLINE_SHARE",
+                                                "text_body": "🔥",
+                                                "igd_snippet": "🔥",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageXMAContent"
+                                                }
+                                            },
+                                            "cursor": "AQHTpa8MaIJqMZWdZV5I7tGpd6w-tfBpZGPSbYvJWAWb14AC9fo_a3ULU6dCTt4Ny33kkyLAkOIJ7PvkV07lpsu4zLr_K7_eKn2S3UDXEiqh8ul00kjnQtqoL6GnrWnKNmXF"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "109436540671375",
+                                                "timestamp_ms": "1657469848432",
+                                                "id": "mid.$cAAALzgvNXvyIGiwTcAAAAAAAAAMx",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "TEXT",
+                                                "text_body": null,
+                                                "igd_snippet": "Reacted ❤️ to your message ",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageAdminText"
+                                                }
+                                            },
+                                            "cursor": "AQHTcH5e9qchYPcLsocvQBMpTsyk7xJdyOd_KCt-6ojaKCM8jpfypbjFgWcwMOFzZy5OGuZdLSV6l0-FOu-C8Nc_X9jiEr0MDW-8nbnOMNQZFWlL-s7PaQk2t2A7EYN_5P8n"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "114650493258611",
+                                                "timestamp_ms": "1657468848290",
+                                                "id": "mid.$cAAALzgvNXvyIGhzQomB6NeIohJ3O",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "NOT_SET",
+                                                "text_body": "",
+                                                "igd_snippet": "You sent an attachment.",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": null
+                                            },
+                                            "cursor": "AQHTOqH5Rx1j4WqS5aTQWzu1V2oPfjiRu1zFXmGqHLNc4MmNEAY-nDeoSFdf4QnYIx9_r9T7IcF4tS2gwcepNjngvmhMuWiTGPufekuBcUGxwEIb9mc55SBKv6NRUldPepC6"
+                                        }
+                                    ],
+                                    "page_info": {
+                                        "end_cursor": "AQHTqqfV1x3HSJBXiTRew22BdaNPEpFe4B28MO1ElykYaLEc0oPq9Uq_9Yc8i7zlNw2y6ek8MpBHp_BNwmwhLI7suilq3VtvuOOAoQy60Kb3OIX0JdEJcxpRpsN1Urt4Mthn",
+                                        "has_next_page": true
+                                    }
+                                },
+                                "thread_title": "Nitesh Kr Gupta",
+                                "usersWithoutViewer": [
+                                    {
+                                        "is_internal_user": null,
+                                        "id": "31683211302"
+                                    }
+                                ],
+                                "viewer": {
+                                    "id": "5423274809",
+                                    "interop_messaging_user_fbid": "114650493258611",
+                                    "profile_pic_url": "https://instagram.fdel27-1.fna.fbcdn.net/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=YRms6fXqYDkQ7kNvwFBfyh-&_nc_oc=AdpzRj-W4bdMe4GfXtJp5eME5cC9nhz5FlpP0OWYnR2yo18hjvH6ayWzTNcpfqC1yw7yjubrcppeQ6L4ZySkjYfq&_nc_zt=24&_nc_ht=instagram.fdel27-1.fna&_nc_gid=oLgNRmNUlnzS8LbOksbIaw&_nc_ss=7b6a8&oh=00_AQL-FMnlK52pIUrv80xT5QJqMHapnKtC5vacrYtnBT0VPg&oe=6AAEF8A2"
+                                },
+                                "thread_image_url": null,
+                                "messaging_folder_tag": "INBOX",
+                                "event_chat_info": null,
+                                "is_muted": false,
+                                "takedown_data": null,
+                                "system_folder": "INBOX",
+                                "folder": "PRIMARY"
+                            },
+                            "id": "559444135670611",
+                            "__typename": "SlideThread"
+                        },
+                        "cursor": "AQHT8AuPJwJw0_iisYAnP2D1F9RU9qOtr7eZ2CxKZkyRThB0q73WTfbkkW6jk6yVyOPiHZlG5paqkjcyQFd-Z_gk5-UQK5u0MqOQQKZcHQSLHAk2-EvMSQY0kAMyn81iLa6h"
+                    },
+                    {
+                        "node": {
+                            "as_ig_direct_thread": {
+                                "id": "1636205674444933",
+                                "last_activity_timestamp_ms": "1738690652069",
+                                "thread_key": "106442937421222",
+                                "thread_subtype": "IG_ONLY_ONE_TO_ONE",
+                                "thread_fbid": "1636205674444933",
+                                "is_group": false,
+                                "users": [
+                                    {
+                                        "id": "9690662940",
+                                        "friendship_status": {
+                                            "blocking": false,
+                                            "is_restricted": false
+                                        },
+                                        "supervision_info": null,
+                                        "interop_messaging_user_fbid": "106442937421222",
+                                        "full_name": "Jahangir Jamil Khan",
+                                        "ai_agent_type": null,
+                                        "username": "jahangirjamilkhan",
+                                        "is_verified": false,
+                                        "aigm_account_label_info": {
+                                            "attribution_label_text": null,
+                                            "is_auto_detected": false,
+                                            "is_enabled": false,
+                                            "is_manually_enabled": false
+                                        },
+                                        "profile_pic_url": "https://instagram.fdel1-2.fna.fbcdn.net/v/t51.2885-19/487712471_1185435319940501_6968784413835550475_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JBcWSwbmUt0Q7kNvwEz7uZ8&_nc_oc=Ado6YI3dOisdPwgaJOJ0DVcC9A8dVyRT_wzZ1FsewvNeu0kBvEJY6sKl_UiGnxFkA44hOZIA_rk-R8_sgMMdOoS6&_nc_zt=24&_nc_ht=instagram.fdel1-2.fna&_nc_ss=7b6a8&oh=00_AQLavgRA8B4XmIoo9zUmN5Y9cI8D6yZ932T_S8ypksw9Tw&oe=6AAF1D46",
+                                        "latest_reel_media": null,
+                                        "latest_besties_reel_media": null,
+                                        "reel_media_seen_timestamp": null
+                                    }
+                                ],
+                                "marked_as_unread": false,
+                                "slide_read_receipts": [
+                                    {
+                                        "participant_fbid": "106442937421222",
+                                        "watermark_timestamp_ms": "1738690568986"
+                                    },
+                                    {
+                                        "participant_fbid": "114650493258611",
+                                        "watermark_timestamp_ms": "1738690652070"
+                                    }
+                                ],
+                                "is_pin": false,
+                                "thread_label": 0,
+                                "input_mode": 0,
+                                "viewer_id": "5423274809",
+                                "nicknames": [],
+                                "thread_id": "340282366841710301244259811223251531909",
+                                "slide_messages": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "sender_fbid": "106442937421222",
+                                                "timestamp_ms": "1738690652069",
+                                                "id": "mid.$cAAAIiQiVxtWbA08vpWU0gnksIFEC",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "TEXT",
+                                                "text_body": "Room pe",
+                                                "igd_snippet": "Room pe",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageText",
+                                                    "text_body": "Room pe"
+                                                }
+                                            },
+                                            "cursor": "AQHTDRdbkvOasN3wcTVYMVRvttZqBhpjwHwiIQsdQttp18I0ykAAqGOIOLAVGxdo9nmwq6mOL2hlN2irC0_yCzUZ5eogak6X8ak40DmkT7lZof2sWP_4kugOlzSh9V9TJW6D"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "114650493258611",
+                                                "timestamp_ms": "1738690568985",
+                                                "id": "mid.$cAAAIiQiVxtWbA03rGWU0gigt1D0E",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "TEXT",
+                                                "text_body": "Abhi kaha hai office pai",
+                                                "igd_snippet": "You: Abhi kaha hai office pai",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageText",
+                                                    "text_body": "Abhi kaha hai office pai"
+                                                }
+                                            },
+                                            "cursor": "AQHTeMoqBqkrXOTPWj59xuIQ6Zc4Ptd4o_LL-c3d9wUpnLm3KA6pYzrYKFRwSUmfrnHAqTv1lbDiOUZxW-DaqEQjLLrP8IxVIrH0rx2NYx8OtAx60QEGbgiJsKHwWT1iyGZ8"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "114650493258611",
+                                                "timestamp_ms": "1738690549649",
+                                                "id": "mid.$cAAAIiQiVxtWbA02fkWU0ghVOUhu9",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "TEXT",
+                                                "text_body": "Han badiya",
+                                                "igd_snippet": "You: Han badiya",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageText",
+                                                    "text_body": "Han badiya"
+                                                }
+                                            },
+                                            "cursor": "AQHT94lBuUPt56vnbTcJ3A-ma2LLroLlmzef3krM0ahdX5frI6nTu5REC2fQyzkdInmZlqn39k1H0cJDv0GkiahohAeuWxT51aKm-_e-83JmULN0WHN6mdTyFhdrCLWwx_ke"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "106442937421222",
+                                                "timestamp_ms": "1738690476084",
+                                                "id": "mid.$cAAAIiQiVxtWbA0yANGU0gc1OI2Rp",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "TEXT",
+                                                "text_body": "Baki sbb badhiya",
+                                                "igd_snippet": "Baki sbb badhiya",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageText",
+                                                    "text_body": "Baki sbb badhiya"
+                                                }
+                                            },
+                                            "cursor": "AQHTweCd1wvKj1UXFProvdIbTO0OvLzFfCdM4AOjCfZDE_8AeapaWKtxiBh31nBNhm1kiIQ6WNE0qClnUjShNUjs1pnVwcUTa9fXTuRXHPgXRVuzsc4yTQSpGDvUp4jIAm9O"
+                                        },
+                                        {
+                                            "node": {
+                                                "sender_fbid": "114650493258611",
+                                                "timestamp_ms": "1738690455293",
+                                                "id": "mid.$cAAAIiQiVxtWbA0wu_WU0gbke-B_h",
+                                                "__typename": "SlideMessage",
+                                                "content_type": "TEXT",
+                                                "text_body": "Inshallah",
+                                                "igd_snippet": "You: Inshallah",
+                                                "expiration_timestamp_ms": null,
+                                                "view_expiration_timestamp_ms": null,
+                                                "content": {
+                                                    "__typename": "SlideMessageText",
+                                                    "text_body": "Inshallah"
+                                                }
+                                            },
+                                            "cursor": "AQHTKWNPbhg-Mdcw5K6k1FUxbpd0BBkOt48mkWLY546Vj5VikuERjKYMy1wWb9B-AF3Cw0AcYHmhPLLI6bfUdpoETuyDwadigGAhuAagrx07uNMQTLPj33gakfGp9CgfVcZq"
+                                        }
+                                    ],
+                                    "page_info": {
+                                        "end_cursor": "AQHT5AEb_LC0DjlbZ4XRa6lb2qzfcZuqT4VmtWJwcTCXqxoNJuCjX5whdYeKNvR-KdPpv3Qvze79CQFdXAJokvU4W6sv_xue-aXyMrDo7IZLizVvnDKHYUSGw-vkfRx0u9T8",
+                                        "has_next_page": true
+                                    }
+                                },
+                                "thread_title": "Jahangir Jamil Khan",
+                                "usersWithoutViewer": [
+                                    {
+                                        "is_internal_user": null,
+                                        "id": "9690662940"
+                                    }
+                                ],
+                                "viewer": {
+                                    "id": "5423274809",
+                                    "interop_messaging_user_fbid": "114650493258611",
+                                    "profile_pic_url": "https://instagram.fdel27-1.fna.fbcdn.net/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy5DMyJ9&_nc_ohc=YRms6fXqYDkQ7kNvwFBfyh-&_nc_oc=AdpzRj-W4bdMe4GfXtJp5eME5cC9nhz5FlpP0OWYnR2yo18hjvH6ayWzTNcpfqC1yw7yjubrcppeQ6L4ZySkjYfq&_nc_zt=24&_nc_ht=instagram.fdel27-1.fna&_nc_gid=oLgNRmNUlnzS8LbOksbIaw&_nc_ss=7b6a8&oh=00_AQL-FMnlK52pIUrv80xT5QJqMHapnKtC5vacrYtnBT0VPg&oe=6AAEF8A2"
+                                },
+                                "thread_image_url": null,
+                                "messaging_folder_tag": "INBOX",
+                                "event_chat_info": null,
+                                "is_muted": false,
+                                "takedown_data": null,
+                                "system_folder": "INBOX",
+                                "folder": "PRIMARY"
+                            },
+                            "id": "1636205674444933",
+                            "__typename": "SlideThread"
+                        },
+                        "cursor": "AQHTQsNH1yNUmMSKVCf4lBNZYLArva4E-MaM5JOhKNHh6wdQ79Ih0fUJH_FaKus5_jRbli3bBbGJGZOCPFusJFZ4Ck_-Lyv5uw5lWqWQbqXrwTsjg6eABg9yH5Qk-5ZwTxZM"
+                    }
+                ],
+                "page_info": {
+                    "end_cursor": "AQHTvwu7_EjYQteitPeT-dvUiuQNMg6_iD75YpbB8YuPE8Pyz33mL24ApFXvZeZZY9sxia9jLXSg9S6guf03PuY1Fr4yZPvbS-ujyEi8wnncuvdH7b7y2lcLvRWppn_MRJ6g",
+                    "has_next_page": true
+                }
+            },
+            "id": "114650493258611",
+            "__token": "%v1%{\"typename\":\"SlideMailbox\",\"id\":\"114650493258611\"}"
+        }
+    },
+    "extensions": {
+        "server_metadata": {
+            "request_start_time_ms": 1789476114045,
+            "time_at_flush_ms": 1789476114232
+        },
+        "is_final": true
+    }
+}
